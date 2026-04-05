@@ -1,10 +1,9 @@
 # 🌍 About The Pioneer Forest (Short)
 
-**The Pioneer Forest (TPF)** is a Pi-powered reforestation project that turns every Pi donation into real CO₂-offset impact.  
-Community-driven and transparent, TPF supports verified tree planting initiatives that restore forests, empower communities, and protect our planet.
+**The Pioneer Forest (TPF)** is a community-driven reforestation initiative within the Pi Network ecosystem. It turns participation into real CO₂-offset impact through verified tree planting, transparent tracking, and a growing public record.
 
 🌱 *1 Pi ≈ 30 kg CO₂ offset (minimum)*  
-🌍 *Transparent donations visible on the Pi blockchain*  
-💚 *Created and sustained entirely by Pioneers*
+🌍 *Transparent activity and visible impact*  
+💚 *Created and sustained by Pioneers*
 
-➡️ [https://egal42.duckdns.org/forest/forest.html](https://egal42.duckdns.org/forest/forest.html)
+➡️ [https://thepioneerforest.netlify.app/forest](https://thepioneerforest.netlify.app/forest)
