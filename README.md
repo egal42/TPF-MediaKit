@@ -2,7 +2,22 @@
 
 Welcome to the official **The Pioneer Forest (TPF) Media & Partner Kit** 🌱
 
+**One-line summary:**  
+Pi-powered, community-driven reforestation with transparent impact.
+
 This repository provides logos, banners, visuals, and key information for anyone who wishes to reference, share, feature, or support **The Pioneer Forest**.
+
+---
+
+## 🎨 Preview
+
+### Banner
+![TPF Banner](banners/TPF_Banner_Main.png)
+
+### Logo
+![TPF Logo](logos/TPF_Logo_Master.png)
+
+➡️ Right-click → Save image to download assets
 
 ---
 
@@ -11,30 +26,28 @@ This repository provides logos, banners, visuals, and key information for anyone
 **The Pioneer Forest (TPF)** is a community-driven reforestation initiative within the Pi Network ecosystem.
 
 It combines:
-- living campaigns
-- shared artifacts
-- and transparent impact tracking
+- living campaigns  
+- shared artifacts  
+- and transparent impact tracking  
 
 to create a growing, open record of environmental contribution.
 
 ### Core principles
 
-- 🌱 **Transparent** — activity is publicly traceable
-- 🌍 **Symbolic** — participation represents measurable CO₂ impact
-- 💚 **Community-driven** — created and sustained by Pioneers
-- 🌲 **Living system** — the forest evolves through participation
+- 🌱 **Transparent** — activity is publicly traceable  
+- 🌍 **Symbolic** — participation represents measurable CO₂ impact  
+- 💚 **Community-driven** — created and sustained by Pioneers  
+- 🌲 **Living system** — the forest evolves through participation  
 
 Official project page:  
-➡️ [https://thepioneerforest.netlify.app/forest](https://thepioneerforest.netlify.app/forest)
+➡️ https://thepioneerforest.netlify.app/forest
 
 ---
 
 ## 🔔 Official Updates & Community
 
 Official announcements, campaign updates, and new developments are shared through the verified **Fireside Forum channel**:  
-➡️ [https://fireside.pinet.com/channels/ThePioneerForest](https://fireside.pinet.com/channels/ThePioneerForest)
-
-Follow the channel to stay informed about project news, milestones, and collaboration opportunities.
+➡️ https://fireside.pinet.com/channels/ThePioneerForest
 
 ---
 
@@ -42,9 +55,9 @@ Follow the channel to stay informed about project news, milestones, and collabor
 
 | Folder | Purpose |
 |--------|---------|
-| `/banners` | Public-use banners in multiple formats and sizes |
-| `/logos` | Official TPF logo pack for digital and print use |
-| `/info` | Partner instructions, project blurbs, and integration material |
+| `/banners` | Main banner and social formats (wide + square) |
+| `/logos` | Official TPF logo pack (master, white, dark, gold, icon) |
+| `/info` | Partner instructions and project descriptions |
 
 ---
 
@@ -54,17 +67,12 @@ You are welcome to share these materials on websites, forums, apps, or social ch
 
 Please keep the following in mind:
 
-- Do not alter the official TPF logo or core symbols without permission.
-- When embedding a banner or logo, credit: **“The Pioneer Forest — Pi-powered Reforestation.”**
-- Link to the official project page whenever possible.
-- For partner usage details, see:  
-  [`/info/partner_instructions.md`](https://github.com/egal42/TPF-MediaKit/blob/main/info/partner_instructions.md)
+- Do not alter the official TPF logo or core symbols without permission  
+- Credit: **“The Pioneer Forest — Pi-powered Reforestation”**  
+- Link to the official project page whenever possible  
 
-### Example badge (Markdown)
-
-```markdown
-[![The Pioneer Forest](https://raw.githubusercontent.com/egal42/TPF-MediaKit/main/logos/TPF_Logo.jpg)](https://thepioneerforest.netlify.app/forest)
-```
+Partner usage details:  
+➡️ https://github.com/egal42/TPF-MediaKit/blob/main/info/partner_instructions.md
 
 ---
 
@@ -82,9 +90,9 @@ All donations directly support verified CO₂-offset tree planting 🌳
 
 ## 📬 Contact
 
-**Pi Chat:** `@egal42`  
-**Email:** `egal42.pi@gmail.com`  
-**Fireside Forum:** [https://fireside.pinet.com/channels/ThePioneerForest](https://fireside.pinet.com/channels/ThePioneerForest)
+**Pi Chat:** @egal42  
+**Email:** egal42.pi@gmail.com  
+**Fireside Forum:** https://fireside.pinet.com/channels/ThePioneerForest
 
 ---
 
