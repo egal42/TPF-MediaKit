@@ -9,13 +9,22 @@ This repository provides logos, banners, visuals, and key information for anyone
 
 ---
 
+## 🔗 Quick Access
+
+- Logos → /logos  
+- Banners → /banners  
+- Info → /info  
+
+---
+
 ## 🎨 Preview
 
 ### Banner
+Official visual banner for The Pioneer Forest.  
 ![TPF Banner](banners/TPF_Banner_Main.png)
 
 ### Logo
-![TPF Logo](logos/TPF_Logo_Master.png)
+<img src="logos/TPF_Logo_Master.png" width="220">
 
 ➡️ Right-click → Save image to download assets
 
@@ -72,7 +81,7 @@ Please keep the following in mind:
 - Link to the official project page whenever possible  
 
 Partner usage details:  
-➡️ https://github.com/egal42/TPF-MediaKit/blob/main/info/partner_instructions.md
+➡️ /info/partner_instructions.md
 
 ---
 
